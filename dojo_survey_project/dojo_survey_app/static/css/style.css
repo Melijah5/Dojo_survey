@@ -1,0 +1,36 @@
+               .note {
+                   text-align: left;
+                   height: 80px;
+                   background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+                   color: white;
+                   font-weight: bold;
+                   line-height: 80px;
+               }
+               
+               .form-content {
+                   padding: 5%;
+                   border: 1px solid #ced4da;
+                   margin-bottom: 2%;
+               }
+               
+               .form-control {
+                   border-radius: 1.5rem;
+               }
+               
+               .form-group {
+                   margin-left: 25%;
+               }
+               
+               .btnSubmit {
+                   border: none;
+                   border-radius: 1.5rem;
+                   padding: 1%;
+                   width: 20%;
+                   cursor: pointer;
+                   background: #0062cc;
+                   color: #fff;
+               }
+               
+               .jumbotron {
+                   background-color: lightgreen;
+               }
